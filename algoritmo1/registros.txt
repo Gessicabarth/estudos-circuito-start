@@ -1,0 +1,16 @@
+1. Programa que escreve 'Olá, mundo JS.'
+
+[] Saída de dados
+[] Entrada de dados
+    - Terminal
+    - Ler arquivo
+[] Variáveis
+    - var/let/const
+
+2. Ler dois números e apresentar a soma
+
+Operações: + - * /
+
+Texto (String)
+números (Inteiros ou floats)
+booleano (true ou falso)
