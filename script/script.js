@@ -1,4 +1,4 @@
-/* console.log('Olá Mundo!');
+console.log('Olá Mundo!');
 
 // o var não é mais recomendado para declaração de variáveis, por não ter o que se chama de block scoping (scopo de bloco)
 var mensagem = 'Olá Mundo!'
@@ -16,16 +16,16 @@ alert(mensagem);
 let mensagem1 = 'Olá Mundo!'
 
 mensagem1 = 'olá'
- */
+
 
 //--------------------------------------------------------------------------------------------------------------------------------------------------
 
 // Strings
-/* const mensagem2 = 'Olá Mundo!'
+const mensagem2 = 'Olá Mundo!'
 
-console.log(mensagem2.length) */
+console.log(mensagem2.length)
 
-/* const nome = 'Gessica'
+const nome = 'Gessica'
 const sobrenome = 'Barth'
 
 // podemos concatenar com o +
@@ -48,7 +48,7 @@ console.log(`Meu nome é ${nome.toLocaleUpperCase()} ${sobrenome.toLowerCase()}`
 const nomes = 'Gessica,Megui,Gabriel'
 
 console.log(nomes.split(","));
- */
+
 
 
  

@@ -4,7 +4,7 @@ BUSCA BINÁRIA - a partir de um array(lista) ordenado, divide pela metade a cada
 */
 
 
-// Probelma: buscar o númerio sete nesse array(lista) - [1,2,3,4,5,6,7]
+// Problema: buscar o número sete nesse array(lista) - [1,2,3,4,5,6,7]
 
 function buscaLinear(lista, elementoDeBusca){
     let indice = -1;

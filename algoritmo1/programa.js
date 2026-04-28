@@ -17,6 +17,6 @@ let v2 = parseFloat(valor2)
 let soma = v1 + v2;
 
 
-// SAIDA DE DADOS
+// SAÍDA DE DADOS
 //console.log(`Você digitou o valor ${valor1}`);
 console.log(`Resultado: ${soma}`);

@@ -1,5 +1,5 @@
 
-// quando criamos uma vcariável no JS usando conchetes, criamos um vetor. 
+// quando criamos uma variável no JS usando conchetes, criamos um vetor. 
 let frutas = ["abacaxi", "maça", "banana", "melão",];
 // indices:      0         1        2         3
 
